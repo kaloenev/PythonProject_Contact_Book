@@ -1,0 +1,10 @@
+Name: John Doe
+Company: ABC Inc. (None)
+Mobile Phone: 1234567890
+Other Phones: , , , 
+Private Emails: , 
+Office Email: 
+Address: 
+Birth Day: 
+Notes: 
+Spouse: None
